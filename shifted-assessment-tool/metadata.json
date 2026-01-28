@@ -1,0 +1,5 @@
+{
+  "name": "SHIFTED Assessment Tool",
+  "description": "A worker-facing and corporate-facing fatigue assessment tool designed to identify schedule-related exposure and improve recovery for shift workers.",
+  "requestFramePermissions": []
+}
